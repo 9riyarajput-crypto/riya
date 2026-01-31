@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Riya Tomar | Digital Marketing Portfolio</title>
+  <meta name="description" content="Digital Marketing Executive skilled in SEO, Social Media, Meta Ads, Google Ads & Canva Design">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="navbar">
+  <h2 class="logo">Riya<span>.</span></h2>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<!-- HERO -->
+<section id="home" class="hero">
+  <h1>Turning Ideas into <span>Digital Results</span></h1>
+  <p>Digital Marketing Executive | SEO | Social Media | Creative Campaigns</p>
+  <div class="buttons">
+    <a href="#portfolio" class="btn">View Portfolio</a>
+    <a href="#contact" class="btn outline">Hire Me</a>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about" class="section">
+  <h2>About Me</h2>
+  <p>
+    I’m a Digital Marketing Executive with hands-on experience in SEO, social media marketing,
+    paid ads, blogging, and Canva design. I help brands grow visibility, engagement,
+    and conversions using creative and data-driven strategies.
+  </p>
+  <p><strong>Education:</strong> B.Com (Computer Applications) | MBA (Pursuing)</p>
+</section>
+
+<!-- SKILLS -->
+<section id="skills" class="section dark">
+  <h2>Skills</h2>
+  <div class="grid">
+    <div class="card">SEO (On-page & Off-page)</div>
+    <div class="card">Social Media Marketing</div>
+    <div class="card">Meta & Google Ads</div>
+    <div class="card">WordPress Management</div>
+    <div class="card">Canva Creative Design</div>
+    <div class="card">Blogging & Content Writing</div>
+    <div class="card">Google Business Profile</div>
+  </div>
+</se
